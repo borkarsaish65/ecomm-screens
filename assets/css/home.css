@@ -1,0 +1,60 @@
+.m-t-1{
+margin-top:1rem !important;
+}
+.m-t-2{
+    margin-top:2rem !important;
+}
+.m-t-3{
+    margin-top:3rem !important;
+}
+.m-t-4{
+    margin-top:4rem !important;
+}
+.m-t-5{
+    margin-top:5rem !important;
+}
+
+.mtb-1{
+    margin: 1rem 0 !important;
+}
+.mtb-2{
+    margin: 2rem 0 !important; 
+}
+.mtb-3{
+    margin: 3rem 0 !important;
+}
+.mtb-4{
+    margin: 4rem 0 !important;
+}
+.mtb-5{
+    margin: 5rem 0 !important;
+}
+
+
+.formDiv {
+    border: 1px solid #00000094;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+.webpage {
+    height: 100vh;
+}
+
+.webpage .section-a{
+    width: 50%;
+    background-image: url('../images/login_screen.jpg');
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.webpage .section-b{
+    flex-grow: 1;
+}
+
+
+.container {
+    max-width: 400px;
+}
