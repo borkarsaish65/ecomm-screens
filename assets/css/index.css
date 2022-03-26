@@ -1,0 +1,16 @@
+.hero-banner {
+    border-radius: 10px;
+    min-height: 25rem;
+    background-image: url('../images/home.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 40px;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: none;
+}
+
