@@ -1,0 +1,29 @@
+.wishlist-container {
+    width: 80%;
+    margin:1rem auto;
+}
+.wishlist-item-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wishlist-item {
+    width: 22%;
+    margin: 1rem;
+}
+.wishlist-cta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#wishlist-item-title {
+    padding:0;
+}
+.wishlist-cta i {
+    cursor: pointer;
+}
+#wishlist-body {
+    padding: 1rem;
+}
+.wishlist-price {
+    margin:10px 0;
+}
