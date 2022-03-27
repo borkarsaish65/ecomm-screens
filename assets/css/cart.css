@@ -1,0 +1,10 @@
+.cart-management {
+    display: flex;
+}
+.cart-products {
+    flex-grow: 1;
+}
+
+.cart-billing {
+    width: 33%;
+}
