@@ -1,0 +1,25 @@
+.page{
+     height: 100vh;
+     margin:0;
+ }
+
+.page{ 
+  display:flex; 
+  flex-direction:column; 
+}
+
+
+.logout-container {
+    border:1px solid black;
+    max-height: 250px;
+    max-width: 400px;
+   border-radius: 10px;
+}
+
+.logout-img-container img {
+    max-height: 65%;
+    max-width: 65%;
+}
+.footer {
+    height: 3.125rem;
+}
