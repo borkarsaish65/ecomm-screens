@@ -1,0 +1,29 @@
+
+
+.formDiv {
+    border: 1px solid #00000094;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+.webpage {
+    height: 100vh;
+}
+
+.webpage .section-a{
+    width: 50%;
+    background-image: url('../images/login_screen.jpg');
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.webpage .section-b{
+    flex-grow: 1;
+}
+
+
+.container {
+    max-width: 400px;
+}
