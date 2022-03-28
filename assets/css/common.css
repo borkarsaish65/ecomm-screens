@@ -2,6 +2,29 @@
     --primary-color:#e91124a6;
 }
 
+body{ height:100vh; margin:0; }
+
+.header{ 
+    min-height:50px;
+ }
+.footer{ 
+    min-height:50px;
+}
+
+/* Trick */
+body{ 
+  display:flex; 
+  flex-direction:column; 
+}
+
+footer{
+  margin-top:auto; 
+}
+
+.footer h3{
+    padding:0;
+}
+
 .m-t-1{
 margin-top:1rem !important;
 }
